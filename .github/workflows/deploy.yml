@@ -40,5 +40,5 @@ jobs:
           project: "cqxx0708-gemini-85"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
